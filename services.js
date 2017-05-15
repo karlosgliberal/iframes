@@ -1,3 +1,5 @@
+//Relación leadclick drupal
+
 window.addEventListener("message", getMessage, false);
 
 function removeParam(key, sourceURL) {
