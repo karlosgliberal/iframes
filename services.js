@@ -18,7 +18,6 @@ function removeParam(key, sourceURL) {
     return rtn;
 }
 
-
 function getMessage(event){
     var newToken=event.data.token;
     var action=event.data.action;
