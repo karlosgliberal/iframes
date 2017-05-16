@@ -1,4 +1,4 @@
-//Relación leadclick drupal 1
+//Relación leadclick drupal 2
 
 window.addEventListener("message", getMessage, false);
 
